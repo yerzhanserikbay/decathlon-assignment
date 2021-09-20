@@ -1,0 +1,5 @@
+com/decathlon/RankServiceTest.class
+com/decathlon/DataLoader.class
+com/decathlon/FileParserCsvTest.class
+com/decathlon/ReadTextFileCsvTest.class
+com/decathlon/AthletePerformanceTest.class
